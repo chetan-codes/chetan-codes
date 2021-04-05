@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Natural Language Processing.
 - 👯 I’m looking to collaborate on Natural Language Processing and Deep Learning projects.
 - 🥅 2021 Goals: Give impact to society and contribute more to open-source projects.
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/His.
 - ⚡ Fun fact: I love learning something new everyday.
 - 📫 Connect with me:
  <a href="mailto:<gmail>chetanc703@gmail.com">
