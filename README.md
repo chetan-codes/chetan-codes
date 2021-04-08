@@ -24,7 +24,6 @@
  </a>
  
  
- 
 - Languages and Tools used:
   
  <a href="https://www.python.org">
