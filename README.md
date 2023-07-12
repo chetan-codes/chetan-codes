@@ -3,8 +3,10 @@
 -->
 
 
-### 👋  Hey there, I'm Chetan! Welcome to my GitHub profile. \n
+### 👋  Hey there, I'm Chetan! Welcome to my GitHub profile.
+
 🤖 Currently building an awesome Chatbot Project that's taking conversations to the next level.
+
 🌱 Learning the ins and outs of Natural Language Processing to create smarter, more intuitive AI systems.
 👯 Passionate about collaborating on cutting-edge projects in Natural Language Processing and Deep Learning. Let's create something groundbreaking together!
 🥅 In 2023, my goals are clear: make a meaningful impact on society and contribute extensively to open-source projects. Together, we can make a difference!
