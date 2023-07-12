@@ -8,10 +8,15 @@
 🤖 Currently building an awesome Chatbot Project that's taking conversations to the next level.
 
 🌱 Learning the ins and outs of Natural Language Processing to create smarter, more intuitive AI systems.
+
 👯 Passionate about collaborating on cutting-edge projects in Natural Language Processing and Deep Learning. Let's create something groundbreaking together!
+
 🥅 In 2023, my goals are clear: make a meaningful impact on society and contribute extensively to open-source projects. Together, we can make a difference!
+
 😄 Pronouns: He/His.
+
 ⚡ Fun Fact: I have an insatiable thirst for knowledge. Every day, I embark on a journey to learn something new and expand my horizons.
+
 🌟 If you're interested in AI, NLP, or anything related to machine learning, feel free to explore my repositories and join me on this exciting journey!
 
 <! - 🔭 I’m currently working on a Chatbot Project.-->
