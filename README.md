@@ -2,14 +2,22 @@
 **thechetanchoudhary/thechetanchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Namaste 🙏, Chetan here! 
 
-- 🔭 I’m currently working on a Chatbot Project.
-- 🌱 I’m currently learning Natural Language Processing.
-- 👯 I’m looking to collaborate on Natural Language Processing and Deep Learning projects.
-- 🥅 2023 Goals: Give impact to society and contribute more to open-source projects.
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: I love learning something new everyday.
+👋 ### Hey there, I'm Chetan! Welcome to my GitHub profile.
+🤖 Currently building an awesome Chatbot Project that's taking conversations to the next level.
+🌱 Learning the ins and outs of Natural Language Processing to create smarter, more intuitive AI systems.
+👯 Passionate about collaborating on cutting-edge projects in Natural Language Processing and Deep Learning. Let's create something groundbreaking together!
+🥅 In 2023, my goals are clear: make a meaningful impact on society and contribute extensively to open-source projects. Together, we can make a difference!
+😄 Pronouns: He/His.
+⚡ Fun Fact: I have an insatiable thirst for knowledge. Every day, I embark on a journey to learn something new and expand my horizons.
+🌟 If you're interested in AI, NLP, or anything related to machine learning, feel free to explore my repositories and join me on this exciting journey!
+
+<! - 🔭 I’m currently working on a Chatbot Project.-->
+<! - 🌱 I’m currently learning Natural Language Processing. -->
+<! - 👯 I’m looking to collaborate on Natural Language Processing and Deep Learning projects. -->
+<! - 🥅 2023 Goals: Give impact to society and contribute more to open-source projects. -->
+<! - 😄 Pronouns: He/His. -->
+<! - ⚡ Fun fact: I love learning something new everyday. -->
 - 📫 Connect with me:
  <a href="mailto:<gmail>chetanc703@gmail.com">
   <img alt="G-Mail" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/google.svg" height = "30px" width ="30px" hspace="20">
