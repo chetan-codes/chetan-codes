@@ -11,7 +11,7 @@
 
 👯 Passionate about collaborating on cutting-edge projects in Natural Language Processing and Deep Learning. Let's create something groundbreaking together!
 
-🥅 In 2023, my goals are clear: make a meaningful impact on society and contribute extensively to open-source projects. Together, we can make a difference!
+🥅 In 2024, my goals are clear: make a meaningful impact on society and contribute extensively to open-source projects. Together, we can make a difference!
 
 😄 Pronouns: He/His.
 
