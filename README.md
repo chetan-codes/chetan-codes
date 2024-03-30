@@ -1,5 +1,5 @@
 <!--
-**thechetanchoudhary/thechetanchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chetan-codes/chetan-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 
@@ -26,7 +26,7 @@
 <!--  😄 Pronouns: He/His. -->
 <!--  ⚡ Fun fact: I love learning something new everyday. -->
 - 📫 Connect with me:
- <a href="mailto:<gmail>chetanc703@gmail.com">
+ <a href="mailto:<gmail>chetanreads@gmail.com">
   <img alt="G-Mail" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/google.svg" height = "30px" width ="30px" hspace="20">
  </a>
 
