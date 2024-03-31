@@ -5,11 +5,11 @@
 
 ### 👋  Hey there, I'm Chetan! Welcome to my GitHub profile.
 
-🤖 Currently building an awesome Chatbot Project that's taking conversations to the next level.
+🤖 Currently building a projct for Meta Analysis of approaches of Quantization and Training of Neural Networks for Efficient Integer-Arithmatic-Only-Inference. 
 
 🌱 Learning the ins and outs of Natural Language Processing to create smarter, more intuitive AI systems.
 
-👯 Passionate about collaborating on cutting-edge projects in Natural Language Processing and Deep Learning. Let's create something groundbreaking together!
+👯 Passionate about collaborating on cutting-edge projects in Natural Language Processing and Large Language Models. Let's create something groundbreaking together!
 
 🥅 In 2024, my goals are clear: make a meaningful impact on society and contribute extensively to open-source projects. Together, we can make a difference!
 
@@ -30,7 +30,7 @@
   <img alt="G-Mail" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/google.svg" height = "30px" width ="30px" hspace="20">
  </a>
 
- <a href="https://www.linkedin.com/in/thechetanchoudhary/">
+ <a href="https://www.linkedin.com/in/chetan-codes/#/">
   <img alt="LinkedIn" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" height = "30px" width ="30px" hspace="20">
  </a>
       
