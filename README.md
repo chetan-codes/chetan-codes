@@ -44,7 +44,7 @@
 
 <!-- Contribution Snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chetan-codes/chetan-codes/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/chetan-codes/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
 ---
