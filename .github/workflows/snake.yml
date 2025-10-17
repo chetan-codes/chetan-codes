@@ -4,17 +4,39 @@ on:
     - cron: "0 0 * * *"
   push:
     branches: [main]
+
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+        with:
+          # persist-credentials defaults true so the commit step can push using GITHUB_TOKEN
+          persist-credentials: true
+
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: chetan-codes
           outputs: |
-            output/github-contribution-grid-snake-dark.svg?theme=dark
-      - uses: actions/upload-artifact@v4
+            output/github-contribution-grid-snake-dark.svg
+
+      - name: Commit generated SVG back to the repo
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: "chore: update contribution snake"
+          add: "output/**"
+          branch: main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload artifact (optional)
+        uses: actions/upload-artifact@v4
         with:
           name: snake
           path: output/
