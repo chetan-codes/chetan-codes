@@ -43,9 +43,9 @@
 
 
 <!-- Contribution Snake -->
-<div align="center">
+
 ![contribution snake](https://raw.githubusercontent.com/chetan-codes/chetan-codes/main/output/github-contribution-grid-snake-dark.svg?theme=dark)
-</div>
+
 
 ---
 
